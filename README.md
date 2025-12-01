@@ -1,3 +1,25 @@
+# Login & Signup Animation Demo
+
+A React Native application showcasing beautiful, smooth animations for Login and Signup screens.
+
+## Features
+- **Smooth Transitions**: Seamless slide-up animations for content.
+- **Interactive UI**: Engaging input fields and buttons with shadow effects.
+- **Modern Design**: Clean aesthetics with a focus on user experience.
+
+
+## Demo
+![App Demo](./assets/screenshots/demo.gif)
+
+## Screenshots
+
+<p float="left">
+  <img src="./assets/screenshots/login.jpg" width="300" />
+  <img src="./assets/screenshots/signup.jpg" width="300" />
+</p>
+
+## Getting Started
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
